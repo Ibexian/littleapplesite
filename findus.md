@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact/
 slug: contact
 ---
-If you'd like to learn more feel free to email us or call the center Monday through Friday between 9:00AM and 5:00PM.
+If you would like to learn more feel free to email us or call the center Monday through Friday between 9:00AM and 5:00PM.
 
 ### Address
 <address>
@@ -17,7 +17,7 @@ Saugus, MA 01906
 (617) 319-8967
 
 ### Email
-<a href='mailto:littleAppleDaycare88@gmail.com'>littleAppleDaycare88@gmail.com</a>
+<a href='mailto:littleAppleDaycare88@gmail.com'>LittleAppleDaycare88@gmail.com</a>
 
 <iframe
   height="450"
