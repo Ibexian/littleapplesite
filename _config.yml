@@ -1,24 +1,15 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
-baseurl: "/zetsu"
-url: "http://nandomoreira.me"
+title: Little Apple Daycare
+email: littleAppleDaycare88@gmail.com
+description: Little Apple Daycare in Saugus, Massachusetts is a bilingual Mandarin and English learning center
+baseurl: ""
+url: "http://littleapple-daycare.com"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
-
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
-
-paginate: 2
-comments: true
-paginate_path: "/page/:num"
+  email    : littleAppleDaycare88@gmail.com
+  url      : http://littleapple-daycare.com
+  facebook : 
+  twitter  :
 
 sass:
   style: :compressed
